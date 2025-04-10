@@ -4,6 +4,9 @@ Prompting:
 - [https://www.promptingguide.ai/](https://www.promptingguide.ai/)
 - https://github.blog/ai-and-ml/generative-ai/prompt-engineering-guide-generative-ai-llms/
 
+🧠 All-in-One Kickoff Prompt for the Hackathon:
+
+`Act as an expert in prompt engineering and GitHub Copilot for C# in Visual Studio. Give me a curated list of advanced prompting techniques (like Q&A, Role prompting, Prompt Chaining, Few-shot, RAG simulation, etc.) that I can use to get the most out of Copilot as a senior developer. For each technique, include a brief description and an example prompt relevant to .NET or C# development. Keep the tone light and witty, but make the insights actionable and impressive.`
 
 Below we have links to some different labs as well as challenges.
 The difference between these two, are that the labs will guide you through creating the app using CoPilot, while a challenge doesn't.
